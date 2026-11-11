@@ -1,0 +1,5 @@
+# Local-only files (preview server, editor settings, the claude.ai artifact copy)
+.claude/
+serve.ps1
+choco-kezuri.html
+.vercel
